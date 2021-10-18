@@ -21,6 +21,10 @@ Link to your `Digital-electronics-2` GitHub repository:
 1. In your words, describe the difference between common C function and interrupt service routine.
    * Function
    * Interrupt service routine
+   * C function and ISR both work in a similar way, both consist of set of instructions. The difference 
+is that we call a C function in a main function (int main) but ISR is called itself whenever the 
+respective interrupt occurs. When the interrupt occurs, the program jumps to its ISR, performs 
+the instruction written in ISR and then comes back to while loop.
 
 2. Part of the header file listing with syntax highlighting, which defines settings for Timer/Counter0:
 
