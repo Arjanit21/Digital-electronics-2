@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-10-18 at 20 36 45](https://user-images.githubusercontent.com/91128841/137787835-006aaa1f-d09f-48b9-8145-fadecd8080f4.jpeg)
 # Lab 4: Arjanit Ismajli
 
 Link to your `Digital-electronics-2` GitHub repository:
