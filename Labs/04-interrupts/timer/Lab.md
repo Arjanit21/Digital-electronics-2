@@ -62,4 +62,5 @@ the instruction written in ISR and then comes back to while loop.
 
 1. Scheme of Knight Rider application with four LEDs and a push button, connected according to Multi-function shield. Connect AVR device, LEDs, resistors, push button, and supply voltage. The image can be drawn on a computer or by hand. Always name all components and their values.
 
-  ![WhatsApp Image 2021-10-18 at 20 36 45](https://user-images.githubusercontent.com/91128841/137787835-006aaa1f-d09f-48b9-8145-fadecd8080f4.jpeg)
+ (![WhatsApp Image 2021-10-18 at 21 02 34](https://user-images.githubusercontent.com/91128841/137791268-0dec10ae-dd08-4067-87c0-acb37961b03c.jpeg)
+)
