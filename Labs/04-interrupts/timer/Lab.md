@@ -57,38 +57,33 @@ the instruction written in ISR and then comes back to while loop.
 
 int main(void)
 {
-   
     GPIO_config_output(&DDRB, LED_D1);
     GPIO_write_low(&PORTB, LED_D1);
+
+  
     TIM1_overflow_262ms();
     TIM1_overflow_interrupt_enable();
-    GPIO_config_input_pullup(&DDRC,BUTTON_S1);
-    
-    sei();
-
    
+    GPIO_config_input_pullup(&DDRC,BUTTON_S1);
+
+    sei();
     while (1)
     {
-     
-       if(GPIO_read(&PINC, BUTTON_S1) == 0) 
+        if(GPIO_read(&PINC, BUTTON_S1) == 0) 
         {
             TIM1_overflow_33ms();
         }
-        else    
+        else   
         {
             TIM1_overflow_262ms();
         }
         
     }
-
-    
     return 0;
 }
 
 ISR(TIMER1_OVF_vect)
 {
-
-    // WRITE YOUR CODE HERE
     GPIO_toggle(&PORTB, LED_D1);
 }
 
