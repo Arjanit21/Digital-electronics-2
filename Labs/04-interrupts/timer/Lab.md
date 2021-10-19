@@ -55,40 +55,9 @@ the instruction written in ISR and then comes back to while loop.
 
 3. Flowchart figure for function `main()` and interrupt service routine `ISR(TIMER1_OVF_vect)` of application that ensures the flashing of one LED in the timer interruption. When the button is pressed, the blinking is faster, when the button is released, it is slower. Use only a timer overflow and not a delay library. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
 
-```c
-int main(void)
-{
-    GPIO_config_output(&DDRB, LED_D1);
-    GPIO_write_low(&PORTB, LED_D1);
 
-  
-    TIM1_overflow_262ms();
-    TIM1_overflow_interrupt_enable();
-   
-    GPIO_config_input_pullup(&DDRC,BUTTON_S1);
-
-    sei();
-    while (1)
-    {
-        if(GPIO_read(&PINC, BUTTON_S1) == 0) 
-        {
-            TIM1_overflow_33ms();
-        }
-        else   
-        {
-            TIM1_overflow_262ms();
-        }
-        
-    }
-    return 0;
-}
-
-ISR(TIMER1_OVF_vect)
-{
-    GPIO_toggle(&PORTB, LED_D1);
-}
-```
-   ![your figure]()
+   ![your figure](![WhatsApp Image 2021-10-19 at 09 47 28](https://user-images.githubusercontent.com/91128841/137867100-20195379-c27b-4f5c-b9e1-e2dce1733832.jpeg)
+)
 
 
 ### Knight Rider
