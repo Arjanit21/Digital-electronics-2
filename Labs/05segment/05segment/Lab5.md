@@ -1,5 +1,5 @@
 
-# Lab 5: YOUR_FIRSTNAME FAMILYNAME
+# Lab 5: ARJANIT ISMAJLI
 
 Link to your `Digital-electronics-2` GitHub repository:
 
@@ -71,7 +71,8 @@ ISR(TIMER0_OVF_vect)
 
 3. Flowchart figure for function `SEG_clk_2us()` which generates one clock period on `SEG_CLK` pin with a duration of 2&nbsp;us. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
 
-   ![your figure]()
+   ![your figure]()![WhatsApp Image 2021-10-26 at 00 07 03](https://user-images.githubusercontent.com/91128841/138777751-2c02df84-8a80-4adb-8a66-9881f0853b42.jpeg)
+
 
 
 ### Kitchen alarm
