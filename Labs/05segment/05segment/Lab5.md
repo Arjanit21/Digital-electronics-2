@@ -3,7 +3,7 @@
 
 Link to your `Digital-electronics-2` GitHub repository:
 
-   [https://github.com/...](https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/05segment/05segment/Lab5.md)
+   [https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/05segment/05segment/Lab5.md](https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/05segment/05segment/Lab5.md)
 
 
 ### 7-segment library
