@@ -3,7 +3,7 @@
 
 Link to your `Digital-electronics-2` GitHub repository:
 
-   [https://github.com/...](https://github.com/...)
+   [https://github.com/...](https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/05segment/05segment/Lab5.md)
 
 
 ### 7-segment library
@@ -11,6 +11,7 @@ Link to your `Digital-electronics-2` GitHub repository:
 1. In your words, describe the difference between Common Cathode and Common Anode 7-segment display.
    * CC SSD
    * CA SSD
+   * The difference between the two displays is the common cathode has all the cathodes of the 7-segments connected directly together and the common anode has all the anodes of the 7-segments connected together.
 
 2. Code listing with syntax highlighting of two interrupt service routines (`TIMER0_OVF_vect`, `TIMER0_OVF_vect`) from counter application with at least two digits, ie. values from 00 to 59:
 
