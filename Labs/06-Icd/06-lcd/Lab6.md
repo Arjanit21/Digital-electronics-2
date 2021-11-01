@@ -64,5 +64,6 @@ Consider a kitchen alarm with an LCD, one LED and three push buttons: start, +1 
 
 1. Scheme of kitchen alarm; do not forget the supply voltage. The image can be drawn on a computer or by hand. Always name all components and their values.
 
-   ![your figure](![WhatsApp Image 2021-11-01 at 20 19 24](https://user-images.githubusercontent.com/91128841/139728683-b8c46065-488d-4eac-ae81-58935a3ccd15.jpeg)
+   ![your figure](![WhatsApp Image 2021-11-01 at 23 06 19](https://user-images.githubusercontent.com/91128841/139748359-29492c71-5950-474a-8e3f-3e4e8710a8bf.jpeg)
+)
 )
