@@ -12,7 +12,8 @@ Link to your `Digital-electronics-2` GitHub repository:
 
 2. (Hand-drawn) picture of time signals between ATmega328P and LCD keypad shield (HD44780 driver) when transmitting three character data `De2`.
 
-   ![your figure]()
+   ![your figure](![WhatsApp Image 2021-11-01 at 20 16 49](https://user-images.githubusercontent.com/91128841/139728730-7027e2ca-3942-4f92-806c-e7ee6bdab146.jpeg)
+)
 
 
 ### Stopwatch
@@ -60,4 +61,5 @@ Consider a kitchen alarm with an LCD, one LED and three push buttons: start, +1 
 
 1. Scheme of kitchen alarm; do not forget the supply voltage. The image can be drawn on a computer or by hand. Always name all components and their values.
 
-   ![your figure]()
+   ![your figure](![WhatsApp Image 2021-11-01 at 20 19 24](https://user-images.githubusercontent.com/91128841/139728683-b8c46065-488d-4eac-ae81-58935a3ccd15.jpeg)
+)
