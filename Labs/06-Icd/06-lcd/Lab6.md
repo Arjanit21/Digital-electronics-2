@@ -1,18 +1,20 @@
-# Lab 6: YOUR_FIRSTNAME FAMILYNAME
+# Lab 6: ARJANIT ISMAJLI
 
 Link to your `Digital-electronics-2` GitHub repository:
 
-[https://github.com/your-github-account/repository-name/lab_name](https://github.com/...)
+[https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/06-Icd/06-lcd/Lab6.md](https://github.com/...)
 
 
 ### LCD display module
 
 1. In your words, describe what ASCII table is.
    * ASCII
+   * The ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code. ASCII is an acronym for American Standard Code for Information Interchange.
 
 2. (Hand-drawn) picture of time signals between ATmega328P and LCD keypad shield (HD44780 driver) when transmitting three character data `De2`.
 
-   ![your figure](![WhatsApp Image 2021-11-01 at 20 16 49](https://user-images.githubusercontent.com/91128841/139728730-7027e2ca-3942-4f92-806c-e7ee6bdab146.jpeg)
+   ![your figure](![WhatsApp Image 2021-11-01 at 20 38 51](https://user-images.githubusercontent.com/91128841/139731151-98d6c332-2449-4335-b40d-0cb0cd88c186.jpeg)
+)
 )
 
 
