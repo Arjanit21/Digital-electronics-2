@@ -1,8 +1,8 @@
-# Lab 7: YOUR_FIRSTNAME FAMILYNAME
+# Lab 7: ARJANIT ISMAJLI
 
 Link to this file in your GitHub repository:
 
-[https://github.com/your-github-account/repository-name/lab_name](https://github.com/...)
+[https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/07uart/07uart/Lab7.md](https://github.com/Arjanit21/Digital-electronics-2/edit/main/Labs/07uart/07uart/Lab7.md)
 
 
 ### Analog-to-Digital Conversion
