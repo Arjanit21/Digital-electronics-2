@@ -104,4 +104,5 @@ Consider an application for temperature and humidity measurement and display. Us
 
 1. FSM state diagram picture of meteo station. The image can be drawn on a computer or by hand. Concise name of individual states and describe the transitions between them.
 
-   ![your figure]()
+   ![your figure](![WhatsApp Image 2021-11-16 at 00 19 16](https://user-images.githubusercontent.com/91128841/141868065-cf84d079-26db-49e2-853e-e7499ae29811.jpeg)
+)
