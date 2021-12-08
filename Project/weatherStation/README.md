@@ -2,7 +2,7 @@
 
 ### Team members
 
-* Member 1 (responsible for xxx)
+* Member 1 (Arjanit Ismajli)
 * Member 2 (responsible for xxx)
 * Member 3 (responsible for xxx)
 * ...
