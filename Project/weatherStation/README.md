@@ -46,8 +46,8 @@ photoresistor></a>
 ## Libraries description
 
 Write your text here.
-
-<a weatherStation="https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.cproj"></a>
+* [Project objectives](#https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.cproj)
+<a weatherStation=""></a>
 
 ## Main application
 
