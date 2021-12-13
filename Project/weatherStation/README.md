@@ -34,13 +34,13 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 ## Hardware description
 
-Arduino Uno + breadboard</a>
-LCD keypad shield</a>
+<Arduino Uno + breadboard></a>
+<LCD keypad shield></a>
 DHT12 humidity and temperature sensor</a>
 SG-90 micro servo</a>
 photoresistor
 
-<Arduino Uno + breadboard></a>
+
 
 ## Libraries description
 
