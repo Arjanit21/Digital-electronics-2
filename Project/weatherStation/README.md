@@ -29,6 +29,8 @@ To show the temperature, humidity, we used DHT12 humidity and temperature sensor
 To show the light intensity we used a photo resistor, connected it to the Arduino and read the data directly in the LCD keypad shield. The values ​​were from 0 to 1000, and by changing the values ​in the photoresistor, we let both motros move.
 The motors were connected directly in Arduino and they were SG-90 micro servo. One made horizontal movement, and always moved when the values ​​between 0 to 300 or 300 to 600 or 600 to 1000 in three different directions.
 The second motor moved vertically. When the light intensity was less than 500 it has moved down and when it was more than 500 the value of light intensity has moved up. By moving the motors, it was possible to move the panel and to orientate towards more light.
+![WhatsApp Image 2021-12-08 at 15 50 50](https://user-images.githubusercontent.com/91128841/145907199-c83b277a-3898-4224-a4f9-dac4cf089ded.jpeg)
+
 
 <a name="hardware"></a>
 
