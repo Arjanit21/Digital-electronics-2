@@ -47,8 +47,8 @@ The second motor moved vertically. When the light intensity was less than 500 it
 ## Libraries description
 
 Write your text here.
-* [weatherStation.cproj](#https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.cproj)
-*  [weatherStation.componentinfo.xml](#https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.componentinfo.xml)
+* [weatherStation.cproj](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.cproj)
+*  [weatherStation.componentinfo.xml](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/weatherStation.componentinfo.xml)
 <a weatherStation=""></a>
 
 ## Main application
