@@ -43,7 +43,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 * [photoresistor](#objectives)
 * [SG-90 micro servo](#objectives)
 * [DHT12 humidity and temperature sensor](#objectives)
-
+* [1kOhm resistor](#objectives)
 
 
 
