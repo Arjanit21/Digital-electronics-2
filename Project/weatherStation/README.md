@@ -67,7 +67,8 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 <a name="circ"></a>
  ## Video/Animation
- ![WhatsApp Image 2021-12-14 at 13 57 44](https://user-images.githubusercontent.com/91128841/146002732-328f8869-7240-47d7-a815-2799fef90880.jpeg)
+
+![ezgif-6-83386f36faec](https://user-images.githubusercontent.com/91128841/146003177-af843eda-d794-4752-a4a5-aac580b80def.gif)
 
  
  
