@@ -78,7 +78,9 @@ Flowchart of ISR-Timer/Counter1
  Flowchart of ISR-ADconverter
  ![ISR (ADC_vect)](https://user-images.githubusercontent.com/91128841/145999863-2d8f4215-1411-48d1-a17e-2fc0a0b1bd03.jpeg)
  
+ 
  Finite state machine diagram
+ 
  ![Flowchart Main + FMS (1)](https://user-images.githubusercontent.com/91128841/145999972-7cef5ded-e3f2-4173-aaea-6318dccb2a3e.jpeg)
 
 
