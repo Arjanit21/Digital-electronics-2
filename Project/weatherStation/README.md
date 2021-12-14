@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Member 1 (Arjanit Ismajli)
-* Member 2 (García Avilés)
-* Member 3 (Docal Saiz)
-* Member 4 (Golbano Corzo)
+* Member 1: Arjanit Ismajli
+* Member 2: Francisco Abelardo García Avilés
+* Member 3: Gonzalo Docal Saiz
+* Member 4: Mario Golbano Corzo
 
 Link to this file in your GitHub repository:
 
@@ -67,6 +67,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 <a name="circ"></a>
  ## Circuit Diagram
+ -Concept presantation
  
  
 <a name="flowchart"></a>
