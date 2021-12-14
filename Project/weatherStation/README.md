@@ -27,7 +27,7 @@ https://github.com/Arjanit21/Digital-electronics-2/tree/main/Project/weatherStat
 Our project was, weather station with 2-axis solar tracking system, we had to show the information about the temperature, humidity and light intensity in an LCD keypad shield.
 To show the temperature, humidity, we used DHT12 humidity and temperature sensor, which we connected in the Arduino and we read the data directly in the LCD keypad shield.
 To show the light intensity we used a photo resistor, connected it to the Arduino and read the data directly in the LCD keypad shield. The values ​​were from 0 to 1000, and by changing the values ​in the photoresistor, we let both motros move.
-The motors were connected directly in Arduino and they were SG-90 micro servo. One made horizontal movement, and always moved when the values ​​between 0 to 300 or 300 to 600 or 600 to 1000 in three different directions.A servo motor can usually only turn 90° in either direction for a total of 180° movement.
+The motors were connected directly in Arduino and they were SG-90 micro servo. A servo motor can usually only turn 90° in either direction for a total of 180° movement  One made horizontal movement, and always moved when the values ​​between 0 to 300 or 300 to 600 or 600 to 1000 in three different directions.
 The second motor moved vertically. When the light intensity was less than 500 it has moved down and when it was more than 500 the value of light intensity has moved up. By moving the motors, it was possible to move the panel and to orientate towards more light.
 ![WhatsApp Image 2021-12-08 at 15 50 50](https://user-images.githubusercontent.com/91128841/145907199-c83b277a-3898-4224-a4f9-dac4cf089ded.jpeg)
 
