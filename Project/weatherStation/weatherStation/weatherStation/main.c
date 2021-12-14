@@ -26,12 +26,6 @@ intensity, tracking the sun
 #include "twi.h"            // TWI library for AVR-GCC
 #include "lcd.h"            // Peter Fleury's LCD library
 
-/* Variables ---------------------------------------------------------*/
-typedef enum {              // FSM declaration
-    STATE_IDLE = 1,
-    STATE_SEND,
-    STATE_ACK
-} state_t;
 
 /* Function definitions ----------------------------------------------*/
 /**********************************************************************
@@ -100,11 +94,8 @@ int main(void)
  **********************************************************************/
 ISR(TIMER1_OVF_vect)
 {
-    static state_t state = STATE_SEND;     // Current state of the FSM
     static uint8_t addr = 0x5c;            // I2C slave address
     uint8_t result = 1;                    // ACK result from the bus
-    char uart_string[] = "0000";           // String for converting numbers by itoa()
-    static uint8_t number_of_devices=0;
     uint8_t temp_int;
     uint8_t temp_frac;
     uint8_t hum_int;
