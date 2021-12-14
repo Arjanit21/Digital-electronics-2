@@ -9,7 +9,7 @@
 
 Link to this file in your GitHub repository:
 
-https://github.com/Arjanit21/Digital-electronics-2/tree/main/Project/weatherStation/weatherStation/weatherStation...)
+https://github.com/Arjanit21/Digital-electronics-2/tree/main/Project/...)
 
 ### Table of contents
 
