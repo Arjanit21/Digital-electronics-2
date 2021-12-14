@@ -16,7 +16,7 @@ https://github.com/Arjanit21/Digital-electronics-2/tree/main/Project/weatherStat
 * [Project objectives](#objectives)
 * [Hardware description](#hardware)
 * [Libraries description](#libs)
-* [Circuit Diagram](#circ)
+* [Video/Animation](#circ)
 * [Flowchart](#flowchart)
 * [Main application](#main)
 * [Video](#video)
@@ -66,8 +66,9 @@ The second motor moved vertically. When the light intensity was less than 500 it
 * [gpio.c](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/gpio.c)
 
 <a name="circ"></a>
- ## Circuit Diagram
- -Concept presantation
+ ## Video/Animation
+ ![WhatsApp Image 2021-12-14 at 13 57 44](https://user-images.githubusercontent.com/91128841/146002732-328f8869-7240-47d7-a815-2799fef90880.jpeg)
+
  
  
 <a name="flowchart"></a>
