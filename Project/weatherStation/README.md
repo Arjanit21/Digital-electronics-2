@@ -91,13 +91,13 @@ Flowchart of ISR-Timer/Counter1
 
 <a name="main"></a>
 ## Main application
-
+Here is the link to the main.c document we used fot the project.
 [main.c](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/main.c)
 
 <a name="video"></a>
 
 ## Video
-
+Here is a little video-explication of how the actual circuit worked in the Lab with our code.
 https://www.youtube.com/watch?v=dNLS92pq2vg&ab_channel=arjanitismajli
 
 
