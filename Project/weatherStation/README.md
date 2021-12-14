@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Member 1 (Arjanit Ismajli)
-* Member 2 (García Avilés)
-* Member 3 (Docal Saiz)
-* Member 4 (Golbano Corzo)
+* Member 1: Arjanit Ismajli
+* Member 2: Francisco Abelardo García Avilés
+* Member 3: Gonzalo Docal Saiz
+* Member 4: Mario Golbano Corzo
 
 Link to this file in your GitHub repository:
 
@@ -16,6 +16,7 @@ https://github.com/Arjanit21/Digital-electronics-2/tree/main/Project/weatherStat
 * [Project objectives](#objectives)
 * [Hardware description](#hardware)
 * [Libraries description](#libs)
+* [Video/Animation](#circ)
 * [Flowchart](#flowchart)
 * [Main application](#main)
 * [Video](#video)
@@ -42,7 +43,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 * [photoresistor](#objectives)
 * [SG-90 micro servo](#objectives)
 * [DHT12 humidity and temperature sensor](#objectives)
-
+* [1kOhm resistor](#objectives)
 
 
 
@@ -64,7 +65,14 @@ The second motor moved vertically. When the light intensity was less than 500 it
 * [gpio.h](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/gpio.h)
 * [gpio.c](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/gpio.c)
 
+<a name="circ"></a>
+ ## Video/Animation
+Here we can see the animation of the project. It shows how the project should work, moving the axis motors accoirding to he light intensity, as we can see through the LCD. This LCD also shows the temperature and humidity.
 
+![ezgif-6-83386f36faec](https://user-images.githubusercontent.com/91128841/146003177-af843eda-d794-4752-a4a5-aac580b80def.gif)
+
+ 
+ 
 <a name="flowchart"></a>
  ## Flowchart
  Flowchart of main function:
