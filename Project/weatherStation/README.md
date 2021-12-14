@@ -67,10 +67,18 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 <a name="flowchart"></a>
  ## Flowchart
+ Flowchart of main function:
+ 
  ![Flowchart Main + FMS](https://user-images.githubusercontent.com/91128841/145999916-b52b00a9-62be-406b-8112-80eaec97f4b3.jpeg)
 
+Flowchart of ISR-Timer/Counter1
+
  ![ISR(TIMER1_OVF_vect)](https://user-images.githubusercontent.com/91128841/145999831-e19390e6-b583-47c8-913d-96369482885e.jpeg)
+ 
+ Flowchart of ISR-ADconverter
  ![ISR (ADC_vect)](https://user-images.githubusercontent.com/91128841/145999863-2d8f4215-1411-48d1-a17e-2fc0a0b1bd03.jpeg)
+ 
+ Finite state machine diagram
  ![Flowchart Main + FMS (1)](https://user-images.githubusercontent.com/91128841/145999972-7cef5ded-e3f2-4173-aaea-6318dccb2a3e.jpeg)
 
 
