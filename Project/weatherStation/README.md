@@ -71,6 +71,8 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
  ![ISR(TIMER1_OVF_vect)](https://user-images.githubusercontent.com/91128841/145999831-e19390e6-b583-47c8-913d-96369482885e.jpeg)
  ![ISR (ADC_vect)](https://user-images.githubusercontent.com/91128841/145999863-2d8f4215-1411-48d1-a17e-2fc0a0b1bd03.jpeg)
+ ![Flowchart Main + FMS (1)](https://user-images.githubusercontent.com/91128841/145999972-7cef5ded-e3f2-4173-aaea-6318dccb2a3e.jpeg)
+
 
 
 <a name="main"></a>
