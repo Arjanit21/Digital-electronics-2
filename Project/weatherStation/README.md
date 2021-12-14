@@ -82,4 +82,5 @@ https://www.youtube.com/watch?v=dNLS92pq2vg&ab_channel=arjanitismajli
 * [LCD_KeyPad_Shield_For_Arduino](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
 * [Libraries](https://github.com/tomas-fryza/Digital-electronics-2/tree/master/Labs)
 * [Photoresistor](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-photoresistor-46c5eb)
+* [Variable Pulse width control servo position](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 
