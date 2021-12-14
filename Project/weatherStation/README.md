@@ -45,7 +45,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 
 
-
+<a name="libs"></a>
 ## Libraries description
 
 
@@ -63,6 +63,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 * [gpio.h](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/gpio.h)
 * [gpio.c](https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/gpio.c)
 
+<a name="main"></a>
 ## Main application
 
 https://github.com/Arjanit21/Digital-electronics-2/blob/main/Project/weatherStation/weatherStation/weatherStation/main.c
