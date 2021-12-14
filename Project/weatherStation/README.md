@@ -67,6 +67,7 @@ The second motor moved vertically. When the light intensity was less than 500 it
 
 <a name="circ"></a>
  ## Video/Animation
+Here we can see the animation of the project. It shows how the project should work, moving the axis motors accoirding to he light intensity, as we can see through the LCD. This LCD also shows the temperature and humidity.
 
 ![ezgif-6-83386f36faec](https://user-images.githubusercontent.com/91128841/146003177-af843eda-d794-4752-a4a5-aac580b80def.gif)
 
